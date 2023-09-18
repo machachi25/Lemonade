@@ -8,7 +8,6 @@ public class Lemonade
         double startingMoney = 20.00;
         String enter;
         String pitcher = "Pitcher";
-        dobule priceGlass = 
         Scanner scan = new Scanner(System.in);
         System.out.println("CJ's Lemonade Store");
         System.out.println("Ice: $0.50 per cup");
